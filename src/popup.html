@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Udemy Speedrun</title>
+		<style>
+			body {
+				font-family: Arial, sans-serif;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				margin: 0;
+				padding: 20px;
+				background-color: #f9f9f9;
+			}
+
+			.popup {
+				text-align: center;
+			}
+
+			.logo {
+				width: 50px;
+				height: 50px;
+			}
+
+			.switch {
+				position: relative;
+				display: inline-block;
+				width: 40px;
+				height: 20px;
+				margin-top: 10px;
+			}
+
+			.switch input {
+				opacity: 0;
+				width: 0;
+				height: 0;
+			}
+
+			.slider {
+				position: absolute;
+				cursor: pointer;
+				top: 0;
+				left: 0;
+				right: 0;
+				bottom: 0;
+				background-color: #ccc;
+				transition: 0.4s;
+				border-radius: 20px;
+			}
+
+			.slider:before {
+				position: absolute;
+				content: "";
+				height: 16px;
+				width: 16px;
+				left: 2px;
+				bottom: 2px;
+				background-color: white;
+				transition: 0.4s;
+				border-radius: 50%;
+			}
+
+			input:checked+.slider {
+				background-color: #4caf50;
+			}
+
+			input:checked+.slider:before {
+				transform: translateX(20px);
+			}
+		</style>
+	</head>
+	<body>
+		<div class="popup">
+			<img src="./icons/logo.png" alt="Extension Logo" class="logo" />
+			<h2>Udemy Speedrun</h2>
+			<label class="switch">
+				<input type="checkbox" id="toggle" />
+				<span class="slider"></span>
+			</label>
+		</div>
+		<script src="popup.js"></script>
+	</body>
+</html>
