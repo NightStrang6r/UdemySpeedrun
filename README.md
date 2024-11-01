@@ -19,7 +19,7 @@
 
 ## ☑️ **Installation**
 
-- Download last version from [releases page](https://github.com/NightStrang6r/UdemySpeedrun/releases).
+- Download latest version from [releases page](https://github.com/NightStrang6r/UdemySpeedrun/releases).
 - Unzip to any folder.
 - In your browser click "Load unpacked package" on Extensions page and set the path to the unpacked folder.
 
