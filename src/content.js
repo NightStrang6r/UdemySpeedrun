@@ -10,7 +10,7 @@ async function main() {
             const { enabled } = await chrome.storage.sync.get(['enabled']);
             if (!enabled) {
                 await sleep(interval);
-                return;
+                continue;
             }
 
             await processLectures();
