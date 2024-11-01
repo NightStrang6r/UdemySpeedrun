@@ -12,14 +12,16 @@
 
 ## 💫 **Features**
 
-- Just skips videos and marks them as" seen" when turned on. That's it!
+- Just skips videos and marks them as "seen" when turned on. That's it!
 - Oh, yeah, and you can turn it on / off. Enjoy!
 
 <img src="https://i.ibb.co/hCrYVTv/2024-10-15-224454854.png" alt="Udemy Speedrun"/>
 
 ## ☑️ **Installation**
 
-- Check releases page
+- Download last version from [releases page](https://github.com/NightStrang6r/UdemySpeedrun/releases).
+- Unzip to any folder.
+- In your browser click "Load unpacked package" on Extensions page and set the path to the unpacked folder.
 
 ## 🎉 **Like it? Star it!**
 
