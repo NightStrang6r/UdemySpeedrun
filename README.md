@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="https://i.ibb.co/vDr07Dh/logo.png" alt="Udemy Speedrun" width="200px"/>
+</p>
+
 <h1 align="center">
     ⚡️ Udemy Speedrun ⚡️
 </h1>
@@ -5,10 +9,6 @@
 <h4 align="center">
     ⚡️ Simple Chrome extension that hepls to autoskip videos for boring Udemy courses ⚡️
 </h4>
-
-<p align="center">
-	<img src="https://i.ibb.co/vDr07Dh/logo.png" alt="Udemy Speedrun" width="200px"/>
-</p>
 
 ## 💫 **Features**
 
