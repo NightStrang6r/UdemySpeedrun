@@ -7,7 +7,7 @@
 </h1>
 
 <h4 align="center">
-    ⚡️ Simple Chrome extension that hepls to autoskip videos for boring Udemy courses ⚡️
+    🧩 Simple Chrome extension that hepls to autoskip videos for boring Udemy courses 🧩
 </h4>
 
 ## 💫 **Features**
